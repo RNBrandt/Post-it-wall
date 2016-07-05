@@ -14,7 +14,7 @@ body {
 }
 
 div.board {
-    background-color: blue;
+    background-color: brown;
     width: 100%;
     background: #eab92d;
     background: -moz-radial-gradient(center, ellipse cover, #eab92d 57%, #c79810 99%);
