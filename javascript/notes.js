@@ -58,7 +58,8 @@ var Board = React.createClass({
   },
   getInitialState: function() {
     return {
-      notes:
+      notes: [
+      "Finish the project"]
     };
   },
   render: function() {
