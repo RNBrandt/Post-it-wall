@@ -1,4 +1,4 @@
-# Post-it-wall
+# REACT.JS Post-it-wall
 
 This Project has been created to desmonstrate my capabilites with React.JS.  It is a complete front-end with realistic-looking post-it-notes. 
 
